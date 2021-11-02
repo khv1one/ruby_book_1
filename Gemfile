@@ -13,6 +13,7 @@ gem 'bootsnap', '>= 1.4.4', require: false
 gem 'coffee-rails', '>=4.1.0'
 gem 'jquery-rails', '>=4.0.3'
 gem 'sdoc', '>=0.4.0', group: :doc
+gem 'bootstrap-sass'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
